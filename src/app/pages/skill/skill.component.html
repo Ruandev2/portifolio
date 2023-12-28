@@ -1,0 +1,9 @@
+<div class="skill-container">
+  <div *ngFor="let skill of skills" class="skill-item">
+    <div class="skill-content">
+      <img *ngIf="skill.imageUrl" [src]="skill.imageUrl" alt="{{ skill.name }}" class="skill-image">
+      <p class="skill-name">{{ skill.name }}</p>
+      <p class="skill-level">{{ skill.level }}</p>
+    </div>
+  </div>
+</div>

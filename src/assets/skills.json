@@ -1,0 +1,46 @@
+[
+  
+    {
+     "id": 1,
+     "name": "Angular", 
+     "level": "Advanced",
+     "imageUrl": "./assets/img/skills/angula.png" 
+    },
+    { 
+     "id": 2,
+     "name": "HTML",
+     "level": "Intermediate",
+     "imageUrl": "./assets/img/skills/HTML.png"
+     },
+    { 
+     "id": 3,
+     "name": "CSS",
+     "level": "Intermediate",
+     "imageUrl": "./assets/img/skills/CSS.png"
+    },
+    { 
+     "id": 4,
+     "name": "JS",
+     "level": "Intermediate",
+     "imageUrl": "./assets/img/skills/JS.png"
+    },
+    { 
+     "id": 5,
+     "name": "REACT",
+     "level": "Intermediate",
+     "imageUrl": "./assets/img/skills/REACT.png"
+   },
+   { 
+    "id": 6,
+    "name": "MSQL",
+    "level": "Intermediate",
+    "imageUrl": "./assets/img/skills/MSQL.png"
+  },
+  { 
+    "id": 7,
+   "name": "gitHub",
+   "level": "Intermediate",
+   "imageUrl": "./assets/img/skills/gitHub.png"
+  }
+  ]
+

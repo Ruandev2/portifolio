@@ -1,0 +1,51 @@
+/* app.component.css */
+
+/* Estilize a seção de boas-vindas */
+.welcome-section {
+  text-align: center;
+  padding: 20px;
+
+}
+
+/* Estilize a imagem de perfil */
+.profile-image {
+  border-radius: 50%;
+  max-width: 200px;
+  height: auto;
+}
+
+/* Estilize a seção "Sobre Mim" */
+.about-section {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* Adicione estilos aos cursos */
+.courses-section {
+  margin-top: 20px;
+}
+
+/* Adicione estilos aos links de cursos */
+.course-tag {
+  margin-right: 5px;
+  color: #007bff; /* Cor azul do link */
+  text-decoration: none;
+}
+
+/* Estilize a lista de cursos */
+.course-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Adicione estilos ao texto em itálico */
+.italic-text {
+  font-style: italic;
+}
+
+.info-box {
+  border: 1px solid #ccc; /* Adapte a cor e a espessura da borda conforme necessário */
+  padding: 15px; /* Adapte a quantidade de preenchimento conforme necessário */
+  border-radius: 5px; /* Adapte o raio da borda conforme necessário para criar bordas arredondadas */
+  text-align: center;
+}

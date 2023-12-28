@@ -1,0 +1,23 @@
+<div class="container_contato" >
+  <form (click)="enviarMensagem()">
+    <div >
+      <label for="name">Name</label>
+      <input type="text" name="nome" id="name" [(ngModel)]="name" >
+    </div>
+    <div >
+      <label for="email">Email</label>
+      <input type="email" name="email" id="email" [(ngModel)]="email" >
+    </div>
+    <div >
+      <label for="mensagem">Mensagem</label>
+      <textarea name="mensagem" id="mensagem" [(ngModel)]="mensagem"></textarea>
+    </div>
+    <button type="submit">Enviar</button>
+  </form>
+  <h2>Mensagem Recebidas</h2>
+  <ul>
+    <li>
+      <strong>{{name}} | {{email}}</strong>
+    </li>
+  </ul>
+</div>

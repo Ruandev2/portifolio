@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "titulo":"Projeto MiniBlog",
+    "descricao": "Um projeto criado  Plataforma Udemy React",
+    "imageUrl":"./assets/img/projetos/miniblog.png"
+  },
+  {
+    "id":2,
+    "titulo":"Projeto Blog Angular",
+    "descricao": "Um projeto criado  Plataforma Dio Angular",
+    "imageUrl":"./assets/img/projetos/blog-angula.png"
+  },
+  {
+    "id":3,
+    "titulo":"Projeto Buzz-Feed",
+    "descricao": "Um projeto criado  Plataforma Dio sistema de rotas e requisicao json",
+    "imageUrl":"./assets/img/projetos/projeto-buzzfeed.png"
+  },
+  {
+    "id":4,
+    "titulo":"Projeto Pokedex ",
+    "descricao": "Um projeto criado  Plataforma Dio JavaScript,HTML,CSS ,Com inpementação de Requisição de uma API",
+    "imageUrl":"./assets/img//projetos/projeto-pokedex.png"
+  }
+]

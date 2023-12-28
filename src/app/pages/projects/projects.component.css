@@ -1,0 +1,35 @@
+.barra_pesquisa {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.projetos_container {
+  display:flex;
+  flex-wrap: wrap;
+}
+.projeto_item {
+  width: 300px;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.projeto_photo {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.projeto_info h3 p {
+  margin-top: 0;
+}
+
